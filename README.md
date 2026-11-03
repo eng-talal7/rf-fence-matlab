@@ -181,9 +181,9 @@ These path values are illustrative assumptions, not site measurements. Changing 
 | `README_MATLAB_v2.txt` | Preserved upstream physics reference; its seven-file setup describes the older physics-only subset |
 | `docs/REVIEW.md` | Source provenance, file-review scope and verification status |
 
-## 9. Provenance and technical context
+## 9. Project context and technical notes
 
-Forked from [MohammedAlmehmadi/rf-fence-matlab](https://github.com/MohammedAlmehmadi/rf-fence-matlab), reviewed at commit [63ff1d9](https://github.com/MohammedAlmehmadi/rf-fence-matlab/commit/63ff1d95cfb5edb1a13c80c9e4cdee657f7cd67c). All original MATLAB code and the upstream reference text are preserved. This update changes documentation only.
+This is the team's RF Fence project repository. A copy of the project files was hosted by a teammate before being copied into this account; that hosting arrangement does not define individual authorship or contributions. The MATLAB project files and reference text are retained.
 
 The Fresnel routine retains its attribution to Stephen L. Moshier's Cephes implementation. Its comment refers to `README_MATLAB.txt`, which is absent upstream; the supplied reference file is `README_MATLAB_v2.txt`. No new code license is assigned by this documentation update.
 

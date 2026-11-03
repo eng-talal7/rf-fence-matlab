@@ -4,11 +4,11 @@ Review date: 2026-11-03
 
 ## Provenance and scope
 
-- Source: https://github.com/MohammedAlmehmadi/rf-fence-matlab
-- Reviewed source commit: `63ff1d95cfb5edb1a13c80c9e4cdee657f7cd67c`
+- Project: the team's RF Fence MATLAB simulation; a teammate previously hosted a copy of the shared files.
+- Reviewed baseline commit: `63ff1d95cfb5edb1a13c80c9e4cdee657f7cd67c`
 - Source tree: `fed363c44e32c38df0408b4a70cbfea6fa08a127`
 - Destination: https://github.com/eng-talal7/rf-fence-matlab
-- Copy method: GitHub fork, preserving source history and authorship.
+- Repository copy retained the project files and existing history. The account that hosted the earlier copy does not establish authorship or individual project responsibilities.
 
 All 14 source files were read: both README files and all 12 MATLAB files. The review covered the physics interfaces, coordinate conventions, channel equations, detector protocol, test definitions, dashboard logic and generated-file dependencies. This was source inspection, not numerical certification.
 
