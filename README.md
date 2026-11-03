@@ -181,9 +181,13 @@ These path values are illustrative assumptions, not site measurements. Changing 
 | `README_MATLAB_v2.txt` | Preserved upstream physics reference; its seven-file setup describes the older physics-only subset |
 | `docs/REVIEW.md` | Source provenance, file-review scope and verification status |
 
-## 9. Project context and technical notes
+## 9. Project context and contribution
 
-This is the team's RF Fence project repository. A copy of the project files was hosted by a teammate before being copied into this account; that hosting arrangement does not define individual authorship or contributions. The MATLAB project files and reference text are retained.
+This is the team's RF Fence project repository.
+
+**Talal's contribution / دور طلال:** تحليل الإشارات، وإجراء التجارب، ودراسة الأبحاث المتعلقة بالتعرف على أوضاع الطيران (Flight Modes) ونوع الدرون وحالاته.
+
+Talal's contribution included signal analysis, experiments, and reviewing research on identifying drone flight modes, types and operating states. These research topics describe his work; the simulation's implemented scope and remaining validation tasks are documented above.
 
 The Fresnel routine retains its attribution to Stephen L. Moshier's Cephes implementation. Its comment refers to `README_MATLAB.txt`, which is absent upstream; the supplied reference file is `README_MATLAB_v2.txt`. No new code license is assigned by this documentation update.
 
